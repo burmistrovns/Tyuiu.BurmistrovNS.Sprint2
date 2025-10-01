@@ -11,7 +11,7 @@ namespace Tyuiu.BurmistrovNS.Sprint2.Task3.V28.Lib
 
             if (x > 1)
             {
-                y = x + Math.Pow((Math.Cos(Math.Pow(x, 2)) / x - 1), x + 3);
+                y = x + Math.Pow((Math.Cos(Math.Pow(x, 2)) / (x - 1)), x + 3);
             }
             else
             {
