@@ -1,5 +1,5 @@
 ﻿using Tyuiu.BurmistrovNS.Sprint2.Task5.V7.Lib;
-namespace Tyuiu.BurmistrovNS.Sprint2.Task4.V15
+namespace Tyuiu.BurmistrovNS.Sprint2.Task5.V7
 {
     class Programm
     {
